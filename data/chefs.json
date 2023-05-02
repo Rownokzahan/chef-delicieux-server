@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "Julia Child",
+        "bio": "Julia Child was an American chef, author, and television personality. She is recognized for introducing French cuisine to the American public with her cookbook, Mastering the Art of French Cooking, and her television show, The French Chef.",
+        "likes": 12000,
+        "recipes": 500,
+        "years_experience": 17,
+        "images": {
+            "large": "/images/chef-image/1.jpg",
+            "small": "https://randomuser.me/api/portraits/men/1.jpg"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Jacques Pépin",
+        "bio": "Jacques Pépin is a French chef, television personality, and author. He is known for his approachable and simple style of French cooking, as well as his emphasis on technique and skills.",
+        "likes": 8500,
+        "recipes": 300,
+        "years_experience": 37,
+        "images": {
+            "large": "/images/chef-image/2.jpg",
+            "small": "https://randomuser.me/api/portraits/women/2.jpg"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Eric Ripert",
+        "bio": "Eric Ripert is a French chef and television personality. He is the chef and co-owner of the Michelin-starred restaurant Le Bernardin in New York City, and has been recognized as one of the best chefs in the world.",
+        "likes": 11000,
+        "recipes": 250,
+        "years_experience": 21,
+        "images": {
+            "large": "/images/chef-image/3.webp",
+            "small": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Dominique Crenn",
+        "bio": "Dominique Crenn is a French chef and restaurateur. She is the owner and chef of Atelier Crenn in San Francisco, which has been awarded three Michelin stars. She is known for her innovative and avant-garde approach to cooking.",
+        "likes": 9500,
+        "recipes": 150,
+        "years_experience": 13,
+        "images": {
+            "large": "/images/chef-image/4.jpg",
+            "small": "https://randomuser.me/api/portraits/women/4.jpg"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Daniel Boulud",
+        "bio": "Daniel Boulud is a French chef and restaurateur. He is the owner of multiple Michelin-starred restaurants around the world, including Daniel in New York City. He is known for his refined and classic approach to French cuisine.",
+        "likes": 8000,
+        "recipes": 400,
+        "years_experience": 23,
+        "images": {
+            "large": "/images/chef-image/5.webp",
+            "small": "https://randomuser.me/api/portraits/men/5.jpg"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Alain Ducasse",
+        "bio": "Alain Ducasse is a French chef and restaurateur. He is the owner of multiple Michelin-starred restaurants around the world, and is known for his emphasis on simplicity and the highest quality ingredients.",
+        "likes": 9000,
+        "recipes": 200,
+        "years_experience": 32,
+        "images": {
+            "large": "/images/chef-image/6.png",
+            "small": "https://randomuser.me/api/portraits/women/6.jpg"
+        }
+    },
+    {
+        "id": "7",
+        "name": "Anne-Sophie Pic",
+        "bio": "Anne-Sophie Pic is a French chef and restaurateur. She is the owner and chef of Maison Pic, a three Michelin-starred restaurant in Valence, France. She is known for her modern and creative approach to French cuisine, and is one of the few female chefs to hold three Michelin stars.",
+        "likes": 7500,
+        "recipes": 120,
+        "years_experience": 14,
+        "images": {
+            "large": "/images/chef-image/7.jpg",
+            "small": "https://randomuser.me/api/portraits/men/7.jpg"
+        }
+    },
+    {
+        "id": "8",
+        "name": "Paul Bocuse",
+        "bio": "Paul Bocuse was a French chef and restaurateur who is considered one of the pioneers of modern French cuisine. He was the owner and chef of L'Auberge du Pont de Collonges, a three Michelin-starred restaurant near Lyon, France. Bocuse passed away in 2018, but his legacy in the culinary world lives on.",
+        "likes": 7000,
+        "recipes": 250,
+        "years_experience": 60,
+        "images": {
+            "large": "/images/chef-image/8.jpg",
+            "small": "https://randomuser.me/api/portraits/women/8.jpg"
+        }
+    }
+]
