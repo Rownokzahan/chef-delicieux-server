@@ -8,7 +8,7 @@
         "years_experience": 17,
         "images": {
             "large": "/images/chef-image/1.jpg",
-            "small": "https://randomuser.me/api/portraits/men/1.jpg"
+            "small": "https://randomuser.me/api/portraits/women/8.jpg"
         }
     },
     {
@@ -20,7 +20,7 @@
         "years_experience": 37,
         "images": {
             "large": "/images/chef-image/2.jpg",
-            "small": "https://randomuser.me/api/portraits/women/2.jpg"
+            "small": "https://randomuser.me/api/portraits/men/32.jpg"
         }
     },
     {
@@ -32,7 +32,7 @@
         "years_experience": 21,
         "images": {
             "large": "/images/chef-image/3.webp",
-            "small": "https://randomuser.me/api/portraits/men/3.jpg"
+            "small": "https://randomuser.me/api/portraits/men/5.jpg"
         }
     },
     {
@@ -56,7 +56,7 @@
         "years_experience": 23,
         "images": {
             "large": "/images/chef-image/5.webp",
-            "small": "https://randomuser.me/api/portraits/men/5.jpg"
+            "small": "https://randomuser.me/api/portraits/men/42.jpg"
         }
     },
     {
@@ -68,7 +68,7 @@
         "years_experience": 32,
         "images": {
             "large": "/images/chef-image/6.png",
-            "small": "https://randomuser.me/api/portraits/women/6.jpg"
+            "small": "https://randomuser.me/api/portraits/men/23.jpg"
         }
     },
     {
@@ -80,7 +80,7 @@
         "years_experience": 14,
         "images": {
             "large": "/images/chef-image/7.jpg",
-            "small": "https://randomuser.me/api/portraits/men/7.jpg"
+            "small": "https://randomuser.me/api/portraits/women/2.jpg"
         }
     },
     {
@@ -92,7 +92,7 @@
         "years_experience": 60,
         "images": {
             "large": "/images/chef-image/8.jpg",
-            "small": "https://randomuser.me/api/portraits/women/8.jpg"
+            "small": "https://randomuser.me/api/portraits/men/13.jpg"
         }
     }
 ]
