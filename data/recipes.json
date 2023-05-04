@@ -12,7 +12,8 @@
         ],
         "cooking_method": "1. In a large dutch oven, cook bacon until crisp. Remove with a slotted spoon and set aside. 2. Brown beef in bacon fat, and remove from pot. 3. Add chopped onions, carrots, and garlic to the pot and cook until softened. 4. Add back in the beef and bacon, along with tomato paste, thyme, bay leaves, and red wine. 5. Bring to a simmer, cover and cook on low for 2-3 hours. 6. Add in mushrooms and cook for an additional hour. 7. Serve hot and enjoy!",
         "rating": 5,
-        "chef_id": "1"
+        "chef_id": "1",
+        "latest": false
     },
     {
         "recipe_id": "2",
@@ -27,7 +28,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. Season chicken with salt and pepper. 3. In a large dutch oven, cook bacon until crisp. Remove with a slotted spoon and set aside. 4. Brown chicken in bacon fat, and remove from pot. 5. Add chopped onions and cook until softened. 6. Add back in the chicken and bacon, along with thyme, bay leaves, red wine, and chicken broth. 7. Bring to a simmer, cover and bake in oven for 1-2 hours. 8. Serve hot and enjoy!",
         "rating": 4,
-        "chef_id": "1"
+        "chef_id": "1",
+        "latest": false
     },
     {
         "recipe_id": "3",
@@ -42,7 +44,8 @@
         ],
         "cooking_method": "1. Heat olive oil in a large pan over medium heat. 2. Add diced eggplant, zucchini, red bell pepper, onion, and minced garlic. 3. Cook until vegetables are tender, about 10-15 minutes. 4. Season with salt and pepper to taste. 5. Serve hot or cold and enjoy!",
         "rating": 3,
-        "chef_id": "1"
+        "chef_id": "1",
+        "latest": false
     },
     {
         "recipe_id": "4",
@@ -57,7 +60,8 @@
         ],
         "cooking_method": "1. In a large bowl, mix together finely chopped beef tenderloin shallot, capers, dijon mustard, and egg yolk. 2. Season with salt and pepper to taste. 3. Serve chilled with sliced baguette or crackers and enjoy!",
         "rating": 4,
-        "chef_id": "1"
+        "chef_id": "1",
+        "latest": true
     },
     {
         "recipe_id": "5",
@@ -72,7 +76,8 @@
         ],
         "cooking_method": "1. Preheat oven to 400 degrees F. 2. In a large skillet, heat butter over medium heat. 3. Add scallops and cook until lightly browned, about 2-3 minutes per side. 4. Remove scallops from skillet and place in a baking dish. 5. Add white wine to skillet and stir to deglaze. 6. Add heavy cream and bring to a simmer. 7. Pour sauce over scallops in baking dish. 8. Sprinkle with grated parmesan cheese. 9. Bake in preheated oven for 10-12 minutes, until bubbly and golden brown. 10. Serve hot and enjoy!",
         "rating": 5,
-        "chef_id": "2"
+        "chef_id": "2",
+        "latest": false
     },
     {
         "recipe_id": "6",
@@ -87,7 +92,8 @@
         ],
         "cooking_method": "1. In a large pot, melt butter over medium heat. 2. Add thinly sliced onions and cook until caramelized, about 30-40 minutes. 3. Add beef broth, white wine, and dried thyme. 4. Bring to a boil, then reduce heat and simmer for 20-30 minutes. 5. Season with salt and pepper to taste. 6. Serve hot, topped with a toasted baguette slice and grated gruyere cheese. 7. Broil until cheese is melted and bubbly. 8. Enjoy!",
         "rating": 4,
-        "chef_id": "2"
+        "chef_id": "2",
+        "latest": false
     },
     {
         "recipe_id": "7",
@@ -102,7 +108,8 @@
         ],
         "cooking_method": "1. Preheat oven to 350 degrees F. 2. Spread dijon mustard on each slice of bread. 3. Top half of the slices with a slice of ham and a slice of gruyere cheese. 4. Top with the remaining slices of bread to make sandwiches. 5. Melt butter in a skillet over medium heat. 6. Fry sandwiches in butter until golden brown on each side, about 2-3 minutes per side. 7. Transfer sandwiches to a baking dish. 8. Bake in preheated oven for 10-12 minutes, until cheese is melted and bubbly. 9. Serve hot and enjoy!",
         "rating": 3,
-        "chef_id": "2"
+        "chef_id": "2",
+        "latest": true
     },
     {
         "recipe_id": "8",
@@ -117,7 +124,8 @@
         ],
         "cooking_method": "1. Heat olive oil in a large pot over medium heat. 2. Add chopped onion, fennel, and garlic. Cook until onion is translucent, about 5 minutes. 3. Add chopped tomato, bay leaf, thyme, and saffron. Cook for 10 minutes. 4. Add fish stock and bring to a boil. 5. Add white fish fillets, mussels, clams, and shrimp. 6. Reduce heat and simmer for 10-15 minutes, until seafood is cooked through. 7. Serve hot with crusty bread and enjoy!",
         "rating": 4,
-        "chef_id": "3"
+        "chef_id": "3",
+        "latest": false
     },
     {
         "recipe_id": "9",
@@ -132,7 +140,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. Peel and core apples, then cut into quarters. 3. Melt butter in a skillet over medium heat. 4. Add sugar and cook until caramelized, about 5-7 minutes. 5. Add cinnamon and nutmeg. 6. Arrange apple quarters in the skillet, rounded side down. 7. Cook for 10-15 minutes, until apples are soft and caramelized. 8. Cover skillet with a round of puff pastry. 9. Bake in preheated oven for 20-25 minutes, until pastry is golden brown. 10. Invert onto a serving plate and enjoy!",
         "rating": 5,
-        "chef_id": "3"
+        "chef_id": "3",
+        "latest": false
     },
     {
         "recipe_id": "10",
@@ -147,7 +156,8 @@
         ],
         "cooking_method": "1. Cook green beans in boiling water for 3-4 minutes, until tender. 2. Rinse with cold water and drain. 3. Arrange lettuce leaves on a platter. 4. Top with tuna, hard-boiled eggs (halved), green beans, and cherry tomatoes. 5. Drizzle with vinaigrette dressing and enjoy!",
         "rating": 4,
-        "chef_id": "3"
+        "chef_id": "3",
+        "latest": false
     },
     {
         "recipe_id": "11",
@@ -162,7 +172,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a saucepan, heat heavy cream and milk over medium heat until almost boiling. 3. In a separate bowl, whisk together egg yolks, sugar, and vanilla extract. Slowly pour the hot cream mixture into the egg mixture, whisking constantly. 5. Strain mixture through a fine-mesh sieve. 6. Pour mixture into ramekins or custard cups. 7. Place ramekins in a baking dish and pour hot water into the dish, about halfway up the sides of the ramekins. 8. Bake in preheated oven for 30-40 minutes, until set but still slightly jiggly in the center. 9. Remove ramekins from baking dish and let cool to room temperature. 10. Chill in the refrigerator for at least 2 hours or overnight. 11. Sprinkle sugar over the top of each custard and use a kitchen torch to caramelize the sugar. 12. Serve and enjoy!",
         "rating": 5,
-        "chef_id": "3"
+        "chef_id": "3",
+        "latest": false
     },
     {
         "recipe_id": "12",
@@ -177,7 +188,8 @@
         ],
         "cooking_method": "1. Preheat oven to 350 degrees F. 2. In a large Dutch oven or oven-safe pot, cook bacon until crispy. 3. Remove bacon and set aside. 4. Brown chicken legs in bacon fat over medium-high heat. 5. Remove chicken and set aside. 6. Add chopped onion, carrots, and garlic to the pot. Cook until softened, about 5-7 minutes. 7. Return chicken and bacon to the pot. 8. Add red wine, chicken stock, thyme, and bay leaves. 9. Bring to a boil, then cover and transfer to preheated oven. 10. Bake for 1 hour, until chicken is cooked through and tender. 11. Serve hot and enjoy!",
         "rating": 4,
-        "chef_id": "3"
+        "chef_id": "3",
+        "latest": true
     },
     {
         "recipe_id": "13",
@@ -192,7 +204,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. Cut eggplant, zucchini, and yellow squash into 1/2-inch cubes. 3. Cut red bell pepper into 1-inch pieces. 4. Heat olive oil in a skillet over medium heat. 5. Add chopped onion and garlic. Cook until softened, about 5-7 minutes. 6. Add eggplant, zucchini, yellow squash, and red bell pepper. 7. Cook for 10-15 minutes, until vegetables are tender. 8. Add canned diced tomatoes and cook for an additional 5-10 minutes. 9. Transfer to an oven-safe dish and bake in preheated oven for 20-25 minutes. 10. Serve hot and enjoy!",
         "rating": 3,
-        "chef_id": "4"
+        "chef_id": "4",
+        "latest": false
     },
     {
         "recipe_id": "14",
@@ -207,7 +220,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. Cut beef chuck roast into 1-inch cubes. 3. Heat olive oil in a Dutch oven or oven-safe pot over medium-high heat. 4. Add beef and cook until browned on all sides. 5. Remove beef and set aside. 6. Add chopped onion, carrots, and garlic to the pot. Cook until softened, about 5-7 minutes. 7. Add beef back to the pot. 8. Pour in a bottle of red wine and enough beef stock to cover the meat. 9. Add thyme and bay leaves. 10. Bring to a simmer, then cover and transfer to preheated oven. 11. Bake for 2-3 hours, until beef is tender. 12. Serve hot with crusty bread and enjoy!",
         "rating": 5,
-        "chef_id": "4"
+        "chef_id": "4",
+        "latest": false
     },
     {
         "recipe_id": "15",
@@ -222,7 +236,8 @@
         ],
         "cooking_method": "1. Preheat oven to 400 degrees F. 2. Melt butter in a saucepan over medium heat. 3. Whisk in flour to make a roux. Cook for 1-2 minutes. 4. Slowly whisk in warm milk until smooth. 5. Add nutmeg, salt, and pepper. 6. Simmer for 10-15 minutes, until thickened. 7. Lay out bread slices on a baking sheet. 8. Top each slice with ham and Gruyere cheese. 9. Top with another slice of bread. 10. Spread a thin layer of bechamel sauce over each sandwich. 11. Bake in preheated oven for 10-15 minutes, until cheese is melted and bubbly. 12. Serve hot and enjoy!",
         "rating": 4,
-        "chef_id": "4"
+        "chef_id": "4",
+        "latest": false
     },
     {
         "recipe_id": "16",
@@ -237,7 +252,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. Peel and core apples. Cut into quarters. 3. Melt butter in a cast-iron skillet over medium-high heat. 4. Sprinkle sugar over the bottom of the skillet. 5. Place apple quarters in the skillet, rounded side down. 6. Sprinkle with cinnamon. 7. Cook for 10-15 minutes, until sugar has caramelized and apples are soft. 8. Remove skillet from heat. 9. Cover apples with a sheet of puff pastry, tucking the edges under the apples. 10. Bake in preheated oven for 20-25 minutes, until pastry is golden brown. 11. Remove from oven and let cool for 5-10 minutes. 12. Invert skillet onto a plate to release the tart. 13. Serve warm with vanilla ice cream and enjoy!",
         "rating": 5,
-        "chef_id": "4"
+        "chef_id": "4",
+        "latest": true
     },
     {
         "recipe_id": "17",
@@ -259,7 +275,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. Cut beef chuck roast into 1-inch cubes. 3. Heat butter in a Dutch oven or oven-safe pot over medium-high heat. 4. Add beef and cook until browned on all sides. 5. Remove beef and set aside. 6. Add chopped onion, carrots, and garlic to the pot. Cook until softened, about 5-7 minutes. 7. Sprinkle with flour and stir to coat the vegetables. 8. Add beef back to the pot. 9. Pour in a bottle of red wine and enough beef stock to cover the meat. 10. Add thyme and bay leaves. 11. Bring to a simmer, then cover and transfer to preheated oven. 12. Bake for 2-3 hours, until beef is tender. 13. Serve hot with crusty bread and enjoy!",
         "rating": 4,
-        "chef_id": "5"
+        "chef_id": "5",
+        "latest": false
     },
     {
         "recipe_id": "18",
@@ -282,7 +299,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. Season chicken legs with salt and pepper. 3. Heat butter in a Dutch oven or oven-safe pot over medium-high heat. 4. Add chicken and cook until browned on all sides. 5. Remove chicken and set aside. 6. Add sliced bacon to the pot and cook until crispy. 7. Remove bacon and set aside. 8. Add chopped onion, carrots, and garlic to the pot. Cook until softened, about 5-7 minutes. 9. Sprinkle with flour and stir to coat the vegetables. 10. Add chicken back to the pot. 11. Pour in a bottle of red wine and enough chicken stock to cover the chicken. 12. Add thyme and bay leaves. 13. Bring to a simmer, then cover and transfer to preheated oven. 14. Bake for 1-2 hours, until chicken is cooked through. 15. Serve hot with bacon and crusty bread and enjoy!",
         "rating": 5,
-        "chef_id": "5"
+        "chef_id": "5",
+        "latest": false
     },
     {
         "recipe_id": "19",
@@ -303,7 +321,8 @@
         ],
         "cooking_method": "1. Boil baby potatoes in salted water until tender. Drain and set aside. 2. Boil green beans in salted water until tender. Drain and set aside. 3. Boil eggs for 8-10 minutes, then place in cold water to cool. Peel and slice. 4. In a small bowl, whisk together dijon mustard, red wine vinegar, minced garlic, salt, and pepper. 5. Slowly whisk in olive oil until dressing is emulsified. 6. Arrange potatoes, green beans, eggs, tuna, and olives on a large platter. 7. Drizzle dressing over the salad. 8. Serve and enjoy!",
         "rating": 4,
-        "chef_id": "5"
+        "chef_id": "5",
+        "latest": false
     },
     {
         "recipe_id": "20",
@@ -320,7 +339,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. Melt butter in a cast iron skillet over medium-high heat. 3. Add sugar, cinnamon, and nutmeg to the skillet. 4. Stir until sugar is melted and mixture is bubbly. 5. Add sliced apples to the skillet and cook until slightly softened, about 5 minutes. 6. Arrange the apples in an even layer in the skillet. 7. Top the apples with a sheet of puff pastry, tucking the edges around the apples. 8. Bake in preheated oven for 25-30 minutes, until the pastry is golden brown. 9. Let cool for 5 minutes, then carefully invert the skillet onto a serving plate. 10. Serve hot with whipped cream or ice cream and enjoy!",
         "rating": 5,
-        "chef_id": "5"
+        "chef_id": "5",
+        "latest": false
     },
     {
         "recipe_id": "21",
@@ -339,7 +359,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. Fit pie crust into a 9-inch pie dish. 3. In a medium bowl, whisk together eggs, milk, heavy cream, nutmeg, salt, and pepper. 4. Stir in crumbled bacon and shredded Gruyere cheese. 5. Pour mixture into the prepared pie crust. 6. Bake in preheated oven for 35-40 minutes, until the quiche is set and the crust is golden brown. 7. Let cool for 5 minutes before slicing and serving. 8. Enjoy!",
         "rating": 4,
-        "chef_id": "5"
+        "chef_id": "5",
+        "latest": false
     },
     {
         "recipe_id": "22",
@@ -355,7 +376,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a medium saucepan, combine heavy cream, milk, granulated sugar, and vanilla bean. 3. Bring to a simmer over medium heat. 4. In a medium bowl, whisk together egg yolks. 5. Slowly pour the hot cream mixture into the bowl with the egg yolks, whisking constantly to prevent curdling. 6. Strain the mixture through a fine-mesh sieve into a large measuring cup or bowl. 7. Divide the mixture evenly among 6 ramekins. 8. Place the ramekins in a large baking dish and fill the dish with hot water until it reaches halfway up the sides of the ramekins. 9. Bake in preheated oven for 35-40 minutes, until the custard is set around the edges but still slightly jiggly in the center. 10. Remove from the oven and let cool to room temperature. 11. Chill in the refrigerator for at least 2 hours, or up to overnight. 12. Just before serving, sprinkle a thin layer of granulated sugar over the top of each custard. 13. Use a kitchen torch to caramelize the sugar until golden brown and crispy. 14. Serve and enjoy!",
         "rating": 5,
-        "chef_id": "5"
+        "chef_id": "5",
+        "latest": true
     },
     {
         "recipe_id": "23",
@@ -376,7 +398,8 @@
         ],
         "cooking_method": "1. Rinse mussels thoroughly under cold running water, removing any beards or debris. 2. In a large pot or Dutch oven, melt butter and olive oil over medium heat. 3. Add chopped onion and garlic and cook until softened, about 5 minutes. 4. Add white wine and chicken broth to the pot and bring to a simmer. 5. Add mussels to the pot and cover tightly with a lid. 6. Cook for 5-7 minutes, shaking the pot occasionally, until mussels have opened. 7. Use a slotted spoon to remove the mussels from the pot and set aside in a large bowl. 8. Add heavy cream to the pot and cook for 1-2 minutes, until slightly thickened. 9. Season with salt and pepper to taste. 10. Pour the sauce over the mussels and sprinkle with chopped parsley. 11. Serve hot with crusty bread and enjoy!",
         "rating": 4,
-        "chef_id": "6"
+        "chef_id": "6",
+        "latest": false
     },
     {
         "recipe_id": "24",
@@ -402,7 +425,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a large Dutch oven or heavy pot, cook bacon over medium heat until crispy. 3. Remove bacon with a slotted spoon and set aside. 4. Add beef to the pot and cook until browned on all sides, about 5-7 minutes. 5. Remove beef with a slotted spoon and set aside with bacon. 6. Add onion, carrot, and garlic to the pot and cook until softened, about 5 minutes. 7. Add wine to the pot and bring to a simmer, scraping up any browned bits from the bottom of the pot. 8. Add beef broth, tomato paste, thyme, and bay leaves to the pot and stir to combine. 9. Return beef and bacon to the pot and bring to a simmer. 10. Cover the pot with a tight-fitting lid and transfer to preheated oven. 11. Bake for 2-3 hours, until beef is fork-tender. 12. Meanwhile, blanch pearl onions in boiling water for 1-2 minutes, then peel off the skins. 13. In a large skillet, melt butter over medium heat. 14. Add mushrooms and pearl onions to the skillet and cook until browned, about 5 minutes. 15. Sprinkle flour over the mushrooms and onions and stir to combine. 16. Add the mushroom and onion mixture to the pot with the beef and stir to combine. 17. Season with salt and pepper to taste. 18. Serve hot with crusty bread or over mashed potatoes and enjoy!",
         "rating": 5,
-        "chef_id": "6"
+        "chef_id": "6",
+        "latest": false
     },
     {
         "recipe_id": "25",
@@ -425,7 +449,8 @@
         ],
         "cooking_method": "1. In a large bowl, combine mixed greens, blanched green beans, hard-boiled eggs, cherry tomatoes, Nicoise olives, and flaked tuna. 2. In a small bowl, whisk together olive oil, red wine vinegar, Dijon mustard, garlic, salt, and pepper. 3. Drizzle the dressing over the salad and toss to combine. 4. Season with additional salt and pepper to taste. 5. Serve and enjoy!",
         "rating": 4,
-        "chef_id": "6"
+        "chef_id": "6",
+        "latest": false
     },
     {
         "recipe_id": "26",
@@ -442,7 +467,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. In a large bowl, combine potato slices, onion slices, olive oil, garlic, rosemary, salt, and pepper. 3. Toss to combine, making sure that potatoes and onions are evenly coated with oil and seasonings. 4. Transfer potato and onion mixture to a large baking dish. 5. Cover with aluminum foil and bake for 45-50 minutes, until potatoes are tender. 6. Remove the foil and continue to bake for an additional 15-20 minutes, until potatoes are golden and crispy on top. 7. Serve hot and enjoy!",
         "rating": 3,
-        "chef_id": "6"
+        "chef_id": "6",
+        "latest": false
     },
     {
         "recipe_id": "27",
@@ -468,7 +494,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a large Dutch oven or heavy pot, cook bacon over medium heat until crispy. 3. Remove bacon with a slotted spoon and set aside. 4. Season chicken thighs with salt and pepper. 5. Add chicken to the pot and cook until browned on all sides, about 5-7 minutes. 6. Remove chicken with a slotted spoon and set aside with bacon. 7. Add onion, carrot, and garlic to the pot and cook until softened, about 5 minutes. 8. Add white wine to the pot and bring to a simmer, scraping up any browned bits from the bottom of the pot. 9. Add chicken broth, tomato paste, thyme, and bay leaves to the pot and stir to combine. 10. Return chicken and bacon to the pot and bring to a simmer. 11. Cover the pot with a tight-fitting lid and transfer to preheated oven. 12. Bake for 1 hour, until chicken is cooked through. 13. Meanwhile, blanch pearl onions in boiling water for 1-2 minutes, then peel off the skins. 14. In a large skillet, melt butter over medium heat. 15. Add mushrooms and pearl onions to the skillet and cook until browned, about 5 minutes. 16. Sprinkle flour over the mushrooms and onions and stir to combine. 17. Add the mushroom and onion mixture to the pot with the chicken and stir to combine. 18. Season with salt and pepper to taste. 19. Serve hot with crusty bread or over mashed potatoes and enjoy!",
         "rating": 4,
-        "chef_id": "6"
+        "chef_id": "6",
+        "latest": true
     },
     {
         "recipe_id": "28",
@@ -490,7 +517,8 @@
         ],
         "cooking_method": "1. In a small bowl, whisk together red wine vinegar, dijon mustard, olive oil, salt, and pepper to make the dressing. 2. In a large bowl, combine baby potatoes, green beans, cherry tomatoes, red onion, and nicoise olives. 3. Toss with the dressing until evenly coated. 4. Arrange hard-boiled eggs and tuna on top of the salad. 5. Serve cold and enjoy!",
         "rating": 5,
-        "chef_id": "7"
+        "chef_id": "7",
+        "latest": false
     },
     {
         "recipe_id": "29",
@@ -505,7 +533,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a medium saucepan, heat heavy cream over medium heat until hot but not boiling. 3. In a medium bowl, whisk together sugar and egg yolks until light and frothy. 4. Slowly pour hot cream into the egg mixture, whisking constantly. 5. Stir in vanilla extract. 6. Divide mixture evenly among 4-6 ramekins. 7. Place ramekins in a baking dish and pour enough hot water into the dish to come halfway up the sides of the ramekins. 8. Bake for 30-40 minutes, until custards are set but still slightly jiggly in the center. 9. Remove from oven and let cool to room temperature. 10. Cover with plastic wrap and refrigerate for at least 2 hours or up to 24 hours. 11. When ready to serve, sprinkle 1 tablespoon of granulated sugar over the top of each custard. 12. Using a kitchen torch, carefully melt the sugar until it forms a crispy, caramelized topping. 13. Serve immediately and enjoy!",
         "rating": 4,
-        "chef_id": "7"
+        "chef_id": "7",
+        "latest": false
     },
     {
         "recipe_id": "30",
@@ -531,7 +560,8 @@
         ],
         "cooking_method": "1. Preheat oven to 350 degrees F. 2. In a large dutch oven, cook bacon over medium heat until crispy. 3. Remove bacon with a slotted spoon and set aside. 4. Season beef cubes with salt and pepper, and add to the dutch oven in batches, searing on all sides until browned. 5. Remove beef with a slotted spoon and set aside. 6. Add onions, carrots, and garlic to the dutch oven and cook until softened, about 5 minutes. 7. Add tomato paste, thyme, and bay leaves, and cook for 1-2 minutes. 8. Add red wine and beef broth, scraping the bottom of the pan to release any browned bits. 9. Return bacon and beef to the dutch oven, along with any juices that have accumulated. 10. Bring to a simmer, cover with a lid, and transfer to the oven. 11. Cook for 2-3 hours, until the beef is tender. 12. About 30 minutes before serving, melt butter in a large skillet. 13. Add pearl onions and mushrooms and cook until lightly browned. 14. Sprinkle flour over the top and stir to combine. 15. Add mixture to the dutch oven and cook for an additional 30 minutes. 16. Serve hot and enjoy!",
         "rating": 5,
-        "chef_id": "7"
+        "chef_id": "7",
+        "latest": false
     },
     {
         "recipe_id": "31",
@@ -556,7 +586,8 @@
         ],
         "cooking_method": "1. Preheat oven to 350 degrees F. 2. In a large dutch oven, cook bacon over medium heat until crispy. 3. Remove bacon with a slotted spoon and set aside. 4. Season chicken pieces with salt and pepper, and add to the dutch oven in batches, searing on all sides until browned. 5. Remove chicken with a slotted spoon and set aside. 6. Add onions, carrots, and garlic to the dutch oven and cook until softened, about 5 minutes. 7. Add tomato paste, thyme, and bay leaves, and cook for 1-2 minutes. 8. Add red wine and chicken broth, scraping the bottom of the pan to release any browned bits. 9. Return bacon and chicken to the dutch oven, along with any juices that have accumulated. 10. Bring to a simmer, cover with a lid, and transfer to the oven. 11. Cook for 1-2 hours, until the chicken is cooked through. 12. About 30 minutes before serving, melt butter in a large skillet. 13. Add mushrooms and cook until lightly browned. 14. Sprinkle flour over the top and stir to combine. 15. Add mixture to the dutch oven and cook for an additional 30 minutes. 16. Serve hot and enjoy!",
         "rating": 4,
-        "chef_id": "7"
+        "chef_id": "7",
+        "latest": false
     },
     {
         "recipe_id": "32",
@@ -575,7 +606,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. Roll out pie crust and fit into a 9-inch pie dish. 3. In a large skillet, cook bacon over medium heat until crispy. 4. Remove bacon with a slotted spoon and set aside. 5. Add onions to the skillet and cook until softened, about 5 minutes. 6. In a medium bowl, whisk together eggs, heavy cream, salt, pepper, and nutmeg. 7. Add bacon and onions to the bottom of the pie crust. 8. Sprinkle grated Gruyere cheese on top of the bacon and onions. 9. Pour egg mixture over the cheese. 10. Bake for 35-40 minutes, until the quiche is set and the top is golden brown. 11. Let cool for 5 minutes before slicing and serving. 12. Enjoy!",
         "rating": 4,
-        "chef_id": "7"
+        "chef_id": "7",
+        "latest": true
     },
     {
         "recipe_id": "33",
@@ -590,7 +622,8 @@
         ],
         "cooking_method": "1. Preheat oven to 300 degrees F. 2. In a medium saucepan, heat heavy cream, 1/2 cup granulated sugar, and vanilla bean seeds over medium heat until just simmering. 3. In a medium bowl, whisk together egg yolks. 4. Gradually pour hot cream mixture into the egg yolks, whisking constantly. 5. Pour mixture through a fine-mesh sieve into a large measuring cup. 6. Divide mixture evenly among six 6-oz ramekins. 7. Place ramekins in a large baking dish and fill with hot water until it reaches halfway up the sides of the ramekins. 8. Bake for 30-35 minutes, until the custards are set but still jiggly in the center. 9. Remove ramekins from the water bath and let cool to room temperature. 10. Chill in the fridge for at least 2 hours or overnight. 11. Before serving, sprinkle 1 tbsp granulated sugar evenly over the top of each ramekin. 12. Using a kitchen torch, melt the sugar until it forms a crispy, caramelized layer on top. 13. Serve immediately and enjoy!",
         "rating": 5,
-        "chef_id": "8"
+        "chef_id": "8",
+        "latest": false
     },
     {
         "recipe_id": "34",
@@ -606,7 +639,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. In a 9-inch cast-iron skillet, melt butter over medium heat. 3. Add sugar to the skillet and stir until the sugar has dissolved and the mixture is bubbling. 4. Add sliced apples, cinnamon, and salt to the skillet and cook for about 10 minutes, stirring occasionally, until the apples are caramelized and tender. 5. Remove skillet from heat and let cool for 10 minutes. 6. Roll out pie crust to fit over the skillet and place the crust over the apples, tucking in the edges. 7. Use a knife to make several slits in the top of the crust to allow steam to escape. 8. Bake for 25-30 minutes, until the crust is golden brown and crispy. 9. Remove skillet from the oven and let cool for 5 minutes. 10. Place a large plate over the skillet and invert the tart onto the plate. 11. Serve warm with a dollop of whipped cream or a scoop of vanilla ice cream. 12. Enjoy!",
         "rating": 4,
-        "chef_id": "7"
+        "chef_id": "7",
+        "latest": false
     },
     {
         "recipe_id": "35",
@@ -629,7 +663,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a large Dutch oven or heavy pot, cook bacon over medium heat until crispy. 3. Remove bacon with a slotted spoon and set aside. 4. In the same pot, brown beef in the bacon fat over high heat in batches, transferring the browned beef to a plate. 5. In the same pot, sauté onions and garlic until softened. 6. Add tomato paste, thyme, rosemary, and bay leaves and cook for 1 minute. 7. Add beef broth and red wine to the pot and stir to combine. 8. Return bacon and beef to the pot, and bring to a simmer. 9. Cover the pot and transfer to the oven. 10. Bake for 2-3 hours, until the beef is tender. 11. In a separate skillet, sauté mushrooms until browned. 12. Add mushrooms, carrots, and potatoes to the pot and stir to combine. 13. Cover the pot and return to the oven. 14. Bake for an additional 30-45 minutes, until the vegetables are tender. 15. Remove bay leaves and serve hot. 16. Enjoy!",
         "rating": 5,
-        "chef_id": "8"
+        "chef_id": "8",
+        "latest": false
     },
     {
         "recipe_id": "36",
@@ -651,7 +686,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a large Dutch oven or heavy pot, cook bacon over medium heat until crispy. 3. Remove bacon with a slotted spoon and set aside. 4. In the same pot, brown chicken pieces in the bacon fat over high heat in batches, transferring the browned chicken to a plate. 5. In the same pot, sauté onions and garlic until softened. 6. Add tomato paste, thyme, and bay leaves and cook for 1 minute. 7. Add red wine and chicken broth to the pot and stir to combine. 8. Return bacon and chicken to the pot, and bring to a simmer. 9. Cover the pot and transfer to the oven. 10. Bake for 1-1.5 hours, until the chicken is cooked through. 11. In a separate skillet, sauté mushrooms until browned. 12. Add mushrooms, carrots, and potatoes to the pot and stir to combine. 13. Cover the pot and return to the oven. 14. Bake for an additional 30-45 minutes, until the vegetables are tender. 15. Remove bay leaves and serve hot. 16. Enjoy!",
         "rating": 4,
-        "chef_id": "8"
+        "chef_id": "8",
+        "latest": false
     },
     {
         "recipe_id": "37",
@@ -672,7 +708,8 @@
         ],
         "cooking_method": "1. Heat olive oil in a large skillet over medium-high heat. 2. Add eggplant and cook until browned and softened, about 5-7 minutes. 3. Remove eggplant with a slotted spoon and set aside. 4. Add zucchini, onion, and bell peppers to the same skillet and cook until softened, about 5-7 minutes. 5. Add garlic and cook for 1-2 minutes. 6. Add chopped tomatoes, thyme, and oregano to the skillet and stir to combine. 7. Return eggplant to the skillet and stir to combine. 8. Season with salt and pepper to taste. 9. Cover the skillet and simmer over low heat for 30-40 minutes, until the vegetables are tender. 10. Serve hot or at room temperature. 11. Enjoy!",
         "rating": 4,
-        "chef_id": "8"
+        "chef_id": "8",
+        "latest": true
     },
     {
         "recipe_id": "38",
@@ -687,7 +724,8 @@
         ],
         "cooking_method": "1. Preheat oven to 325 degrees F. 2. In a medium saucepan, heat heavy cream over medium heat until it comes to a simmer. 3. Remove from heat and let cool slightly. 4. In a medium bowl, whisk together egg yolks, sugar, vanilla extract, and salt until well combined. 5. Gradually add the warm cream to the egg mixture, whisking constantly. 6. Strain the mixture through a fine-mesh sieve into a large measuring cup with a spout. 7. Pour the mixture into 6-8 ramekins, filling each about 3/4 full. 8. Place the ramekins in a large baking dish and fill the dish with hot water until it reaches halfway up the sides of the ramekins. 9. Bake for 30-40 minutes, until the custard is set but still jiggles slightly in the center. 10. Remove from the oven and let cool to room temperature. 11. Chill in the refrigerator for at least 2 hours, or up to overnight. 12. Before serving, sprinkle a thin layer of granulated sugar on top of each custard. 13. Use a kitchen torch to caramelize the sugar until it forms a golden-brown crust. 14. Serve immediately. 15. Enjoy!",
         "rating": 5,
-        "chef_id": "4"
+        "chef_id": "4",
+        "latest": false
     },
     {
         "recipe_id": "39",
@@ -703,7 +741,8 @@
         ],
         "cooking_method": "1. Preheat oven to 375 degrees F. 2. In a 10-inch oven-safe skillet, melt butter over medium heat. 3. Add sugar and stir until it dissolves and the mixture turns a deep golden color. 4. Remove from heat and stir in vanilla extract and cinnamon. 5. Arrange apple slices in the skillet, overlapping them slightly and starting from the center of the skillet. 6. Return the skillet to the stovetop and cook over medium heat for 10-15 minutes, until the apples start to soften and release their juices. 7. Meanwhile, roll out the puff pastry on a lightly floured surface until it's about 1/8 inch thick and slightly larger than the skillet. 8. Cut a circle from the puff pastry that's slightly larger than the skillet. 9. Once the apples have softened, carefully place the puff pastry over the skillet and tuck the edges of the pastry down around the apples. 10. Bake in the preheated oven for 20-25 minutes, until the puff pastry is golden brown and puffed. 11. Remove from the oven and let cool for 5-10 minutes. 12. Carefully invert the skillet onto a serving plate, so that the puff pastry is on the bottom and the apples are on top. 13. Serve warm or at room temperature. 14. Enjoy!",
         "rating": 4,
-        "chef_id": "2"
+        "chef_id": "2",
+        "latest": false
     },
     {
         "recipe_id": "40",
@@ -723,6 +762,7 @@
         ],
         "cooking_method": "1. Heat olive oil in a large pot over medium heat. 2. Add chopped onions and minced garlic and sauté for 3-5 minutes, until softened. 3. Add the cubed eggplant and bell peppers, and continue to sauté for another 5-7 minutes, until the vegetables start to soften. 4. Add the chopped tomatoes, dried thyme, dried oregano, salt, and pepper, and stir to combine. 5. Cover the pot and let the vegetables cook over medium heat for 20-25 minutes, until they are tender and the flavors have melded together. 6. Meanwhile, preheat the oven to 375 degrees F. 7. Once the vegetables are done cooking, transfer them to a large baking dish. 8. Arrange the sliced zucchini on top of the vegetables in a single layer. 9. Cover the baking dish with aluminum foil and bake in the preheated oven for 25-30 minutes, until the zucchini is tender. 10. Remove from the oven and let cool for a few minutes before serving. 11. Enjoy!",
         "rating": 5,
-        "chef_id": "2"
+        "chef_id": "2",
+        "latest": false
     }
 ]

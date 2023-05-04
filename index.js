@@ -27,6 +27,15 @@ app.get('/chefs/:chef_id/recipes', (req, res) => {
     res.json(filteredRecipes)
 })
 
+app.get('/recipes', (req, res) => {
+    res.json(recipes)
+})
+
+app.get('/recipes/latest', (req, res) => {
+    const latestRecipes = recipes.filter(recipe=>recipe.latest === true)
+    res.json(latestRecipes)
+})
+
 app.listen(port, () => {
     console.log(`Chef's Délicieux server is running on port: ${port}`)
 })
